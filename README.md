@@ -8,14 +8,17 @@ description: A discord bot can show stats from brawl stars profiles and clubs!
 
 ### #01 - Where can I get support?
 
-You can join the[ **Lenni's Development Place**](https://discord.gg/ntJEy5ADMu) Server for Support.&#x20;
+You can join the[ **Lenni's Development Place**](https://discord.gg/ntJEy5ADMu) Server for Support.
 
 ### #02 - How can I support the project?
 
 #### Without money:
 
 * [https://discordbotlist.com/bots/brawler-stats/upvote](https://discordbotlist.com/bots/brawler-stats/upvote)
-* [https://top.gg/bot/917018198237392926/vot](https://top.gg/bot/917018198237392926/vote)
+* [https://top.gg/bot/917018198237392926/vot](https://top.gg/bot/917018198237392926/vote)[e](https://top.gg/bot/917018198237392926/vote)
+* [https://discord-botlist.eu/bots/917018198237392926](https://discord-botlist.eu/bots/917018198237392926)
+* [https://bots.discordlabs.org/bot/917018198237392926/vote](https://bots.discordlabs.org/bot/917018198237392926/vote)
+* [https://infinitybots.gg/bots/917018198237392926/vote](https://infinitybots.gg/bots/917018198237392926/vote/)
 
 #### With money:
 
