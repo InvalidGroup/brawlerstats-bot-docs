@@ -1,12 +1,15 @@
 # Privacy Policy
 
-## How collect we the data?.&#x20;
+## How collect we the data?.
 
-* Via the Discord API.&#x20;
+* Via the Discord API.
 * Via the Top.gg API.
+* Via the Discord-botlist.com API.
+* Via the Infinitybots.gg API.
+* Via the DiscordLabs API.
 * Via the Brawl Stars API.
 
-### What data do we collect?&#x20;
+### What data do we collect?
 
 * GuildID
 * OwnerID
@@ -23,7 +26,7 @@ We require this data for support, functionality of the bot (this includes setup 
 
 The data is used for growth, marketing, functionality, support, user experience.
 
-### Other than Discord (the company) and users of our own bot on Discord (the platform), who do we share collected data with, if anyone?&#x20;
+### Other than Discord (the company) and users of our own bot on Discord (the platform), who do we share collected data with, if anyone?
 
 We share the data with **Supercel**l.
 
@@ -34,4 +37,3 @@ You can ask us a question about the Privacy Policy via contact@invalidlenni.de
 ### How can I delete the data?
 
 You can't delete any saved data because we don't save data.
-
