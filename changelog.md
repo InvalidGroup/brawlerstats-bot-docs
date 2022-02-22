@@ -1,5 +1,8 @@
 # Changelog
 
+## 20th February 2022
+* We have a new support server.
+
 ## 11th February 2022
 
 * We've reached 40+ servers, thanks! ❤
