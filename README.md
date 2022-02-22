@@ -8,7 +8,7 @@ description: A discord bot can show stats from brawl stars profiles and clubs!
 
 ### #01 - Where can I get support?
 
-You can join the[ **Lenni's Development Place**](https://discord.gg/ntJEy5ADMu) Server for Support.
+You can join the [**BrawlerStats Support Server**](https://bit.ly/brawlerstats_support) for getting Support.
 
 ### #02 - How can I support the project?
 
