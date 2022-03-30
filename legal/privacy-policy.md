@@ -3,10 +3,6 @@
 ## How collect we the data?.
 
 * Via the Discord API.
-* Via the Top.gg API.
-* Via the Discord-botlist.com API.
-* Via the Infinitybots.gg API.
-* Via the DiscordLabs API.
 * Via the Brawl Stars API.
 
 ### What data do we collect?
