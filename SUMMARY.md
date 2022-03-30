@@ -8,6 +8,7 @@
 * [Profile](features/profile.md)
 * [Club](features/club.md)
 
-## Legal&#x20;
+## Legal
 
+* [Terms of Service](legal/terms-of-service.md)
 * [Privacy Policy](legal/privacy-policy.md)
