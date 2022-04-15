@@ -1,6 +1,11 @@
 # Changelog
 
+## 1st April 2022
+
+* The brawler stats bot is now verified.
+
 ## 20th February 2022
+
 * We have a new support server.
 
 ## 11th February 2022
